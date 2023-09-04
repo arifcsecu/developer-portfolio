@@ -1,0 +1,12 @@
+/* for Header */
+
+ul > li 
+{
+    display: inline;
+}
+
+.mary 
+{
+    display: flex;
+    align-items: center;
+}
